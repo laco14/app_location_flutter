@@ -1,16 +1,1 @@
-# app_location
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Notre projet consiste en la conception et le développement d'une application de localisation et de recherche de restaurants, permettant aux utilisateurs de trouver facilement les établissements correspondant à leurs préférences (ville, spécialité, budget) tout en visualisant leur emplacement sur une carte interactive. Ce projet est réalisé en collaboration avec Bo Deloison, Silya Chikhi, Pauline Tellier et Nicolas Hollier-Larousse
